@@ -1,4 +1,4 @@
-package Assignment3;
+package projects;
 
 import java.io.*;
 import java.util.Scanner;
