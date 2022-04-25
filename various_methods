@@ -1,7 +1,7 @@
 //Cristian Fabricio Castro
-package Assignment4;
+package projects;
 
-public class Assignment4 {
+public class various_methods {
 	static void addition() {
 		int x = 13;
 		int y = 13;
