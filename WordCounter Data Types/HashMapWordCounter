@@ -13,7 +13,6 @@ import java.util.Map.Entry;
  */
 public class HashMapCounter {
 	static HashMap<String, Integer> wordsHash = new HashMap<String, Integer>();
-	static TreeMap<String, Integer> wordsTree = new TreeMap<String, Integer>();
 	
 	/**
 	 * addWordToHashMap - add word to list or increment counter
