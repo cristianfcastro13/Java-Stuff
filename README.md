@@ -1,2 +1,2 @@
-# Java_Stuff
+# Java_Programs
 Repo of my Java programs.
