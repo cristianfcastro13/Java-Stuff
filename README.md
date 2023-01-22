@@ -1,2 +1,2 @@
-# Programming Portfolio
-Repository of my programming experience.
+# Java_Stuff
+Repo of my Java programs.
